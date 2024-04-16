@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #declaring the Values
-PERSON1=Saharsh
-PERSON2=Sahithi
+PERSON1=$1
+PERSON2=$2
 
 #Using the Variables by referring.
 echo "$PERSON1 :: Namasthey, $PERSON2. How are you?"
