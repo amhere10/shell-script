@@ -1,1 +1,2 @@
-This is sample script file.
+#!/bin/bash
+echo "Hi, I am learning AWS with DevOps"
